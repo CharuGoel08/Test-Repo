@@ -1,4 +1,6 @@
-Hello how are you
+Hello HOW are you
 This is my File 1
 
 Change1: Put a “ ”(space) between numerical and letters
+
+change3: change for a commit on master branch and capitalized how
