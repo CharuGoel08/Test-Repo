@@ -7,3 +7,5 @@ change3: change for a commit on master branch and capitalized how
 
 change2: changes to understand rebase and capitalized hello
 
+change4 : trying stash
+
